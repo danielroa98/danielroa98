@@ -4,7 +4,7 @@ I'm currently in my 8th semester out of 9 in my Computer Science major at Tecnol
 
 [![Daniel Roa's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielroa98&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielroa98&langs_count=4&layout=compact&theme=cobalt)](https://github.com/danielroa98/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielroa98&langs_count=4&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- [![Daniel Roa's DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/danielroa98) -->
