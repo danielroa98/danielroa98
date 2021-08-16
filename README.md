@@ -1,6 +1,6 @@
 ## A little about me
 
-I'm currently in my 8th semester out of 9 in my Computer Science major at Tecnológico de Monterrey (ITESM). I've worked in web development (more specifically React) and I'm learning to use _Vue_. I'm interested in working on the cybersecurity area, I like pentesting and cryptography.
+I'm currently in my last semester in my Computer Science major at the Tecnológico de Monterrey (ITESM). I've worked in web development (with the React framework as well as Node.js). I'm interested in cybersecurity as well, I enjoy trying new pentesting tools as well as cryptography.
 
 [![Daniel Roa's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielroa98&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
