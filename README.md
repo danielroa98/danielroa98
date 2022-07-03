@@ -1,6 +1,8 @@
 ## A little about me
 
-I'm currently in my last semester in my Computer Science major at the Tecnológico de Monterrey (ITESM). I've worked in web development (with the React framework as well as Node.js). I'm interested in cybersecurity as well, I enjoy trying new pentesting tools as well as cryptography.
+I'm a graduate from Computer Science major at the Tecnológico de Monterrey (ITESM). I've worked in web development (with the React framework as well as Node.js). I'm interested in cybersecurity as well, I enjoy trying new pentesting tools as well as cryptography.
+
+I enjoy learning from packages that I didn't that existed for Node.js and Python. I enjoy working the most with those languages as well as improving upon the knowledge that I already have of those two programming languages.
 
 [![Daniel Roa's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielroa98&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
