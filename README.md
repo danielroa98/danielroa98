@@ -5,6 +5,8 @@
 I specialize in **sabermetrics, advanced sports analytics, data science and machine learning models**.  
 Some of my yet-to-be published projects revolve around _sports analytics_, _sabermetrical analysis_ and _webscraping_.
 
+I graduated a couple of years ago as a Computational Engineer (_Computer Science_) from ITESM in Mexico City, currently, I'm studying my Master's Degree in Informational Technology and Analytical Intelligence.
+
 ---
 
 ## 🛠 Skills & Tools
