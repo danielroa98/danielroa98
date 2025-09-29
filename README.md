@@ -1,27 +1,76 @@
-## A little about me
+# 👋 Hi, I'm Daniel Roa
 
-I'm a graduate from Computer Science major at the Tecnológico de Monterrey (ITESM). I've worked in web development (with the React framework as well as Node.js). I'm interested in cybersecurity as well, I enjoy trying new pentesting tools as well as cryptography.
+🎓 Aspiring Data Scientist | ⚾ Sports Analytics (LMB & MLB) | 🤖 AI & Machine Learning | 🔐 Cybersecurity Enthusiast  
 
-I enjoy learning from packages that I didn't that existed for Node.js and Python. I enjoy working the most with those languages as well as improving upon the knowledge that I already have of those two programming languages.
+I specialize in **sabermetrics, advanced sports analytics, data science and machine learning models**.  
+Some of my yet-to-be published projects revolve around _sports analytics_, _sabermetrical analysis_ and _webscraping_.
 
-[![Daniel Roa's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielroa98&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielroa98&langs_count=4&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+## 🛠 Skills & Tools
 
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
+  <!--<img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white" />-->
+  <!--<img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />-->
 
-<!-- [![Daniel Roa's DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/danielroa98) -->
+  <!-- ML/DS -->
+  <!--<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />-->
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Polars-5A2D81?logo=polars&logoColor=white" />
+  
 
-<!--
-**danielroa98/danielroa98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Frameworks & Infra -->
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" />
 
-Here are some ideas to get you started:
+  <!-- AI Tools -->
+  <img src="https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- Writing & Documenting -->
+  <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+---
+
+## 📖 Latest Writings
+
+*(Auto-updated daily via GitHub Actions)*  
+
+### 📰 Substack  
+<!--START:substack-->
+- Placeholder for Substack feed items
+<!--END:substack-->
+
+### ✍ Medium (tag: data-science)  
+<!--START:medium-->
+- Placeholder for Medium feed items
+<!--END:medium-->
+
+---
+
+## 📬 Connect with Me
+
+<p align="center">
+  <a href="https://danielroaglz.substack.com/"><img src="https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=white" /></a>
+  <a href="https://medium.com/@danielroa"><img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/luis-daniel-roa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/danielroa98"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=daniel-roa&style=flat-square" alt="Profile Views" />
+</p>
