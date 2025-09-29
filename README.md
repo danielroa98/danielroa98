@@ -28,7 +28,6 @@ Some of my yet-to-be published projects revolve around _sports analytics_, _sabe
   <!-- Frameworks & Infra -->
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" />
 
   <!-- AI Tools -->
   <img src="https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000" />
