@@ -50,14 +50,9 @@ I graduated a couple of years ago as a Computational Engineer (_Computer Science
 *(Auto-updated daily via GitHub Actions)*  
 
 ### 📰 Substack  
-<!--START:substack-->
-- Placeholder for Substack feed items
-<!--END:substack-->
+<!-- BLOG-POST-LIST:START -->
 
-### ✍ Medium (tag: data-science)  
-<!--START:medium-->
-- Placeholder for Medium feed items
-<!--END:medium-->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
