@@ -1,6 +1,7 @@
 name: Update README with Substack Posts
 on:
   schedule:
+    # Runs every day at midnight UTC
     - cron: '0 0 * * *'
   workflow_dispatch: 
 
@@ -14,8 +15,13 @@ jobs:
       - name: Pull Substack RSS
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
+          # Your Substack RSS feed URL
           feed_list: "https://nueveentradas.substack.com/feed"
           max_post_count: 5
           comment_tag_name: "BLOG-POST-LIST"
-          # Replace 'Your Name' with your exact Substack author profile name
-          tag_post_pre_filter: "tags.creator == 'Daniel Roa'" 
+          # Custom template: Title (Date)
+          template: "$newline- [$title]($url) ($date)"
+          date_format: "mmm d, yyyy"
+          # Filters for posts matching your author name exactly
+          # Replace 'Daniel Roa' with your exact Substack profile name
+          tag_post_pre_filter: "tags.creator == 'Daniel Roa'"
